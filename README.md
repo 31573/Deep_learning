@@ -6,7 +6,10 @@ Project Structure:
 •	Data Preprocessing: In this phase, the dataset is preprocessed to handle missing values, encode categorical variables, and split the data into training and testing sets.
 •	Model Compilation, Training, and Evaluation: A neural network model is designed, compiled, trained, and evaluated using TensorFlow and Keras. The model's performance metrics, such as loss and accuracy, are assessed on the test data.
 •	Model Optimization: Various optimization techniques are explored to enhance the model's predictive accuracy, including adjusting input data, modifying neural network architecture, and experimenting with different training parameters.
-•	Report: A detailed analysis report is provided, summarizing the project's objectives, methodology, results, and recommendations for future improvements.
+
+•	Report:
+A detailed analysis report is provided, summarizing the project's objectives, methodology, results, and recommendations for future improvements.
+
 Files Included:
 
 •	charity_data.csv: The dataset containing metadata about organizations funded by Alphabet Soup.
